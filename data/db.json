@@ -1,0 +1,17 @@
+{
+  "people": [
+    {
+      "id": 42,
+      "name": "LeBron James",
+      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
+      "age": 36,
+      "note": "Allegeric to stayng on the same team"
+    },
+    {
+      "id": 76,
+      "name": "Kobe Bryant",
+      "age": 42,
+      "img": "https://fullpresscoverage.com/wp-content/uploads/2020/01/101524695-457220551.jpg"
+    }
+  ]
+}

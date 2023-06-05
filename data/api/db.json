@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "name": "Sobhan Perry",
+      "username": "Sobhan",
+      "email": "sobhan@yahoo.com",
+      "phone": "9893548125",
+      "companiesId": "2",
+      "id": 1
+    },
+    {
+      "name": "Nastaran name",
+      "username": "Nastaran",
+      "email": "nasi@gmail.com",
+      "phone": "9893878452",
+      "companiesId": "2",
+      "id": 4,
+      "detailsId": 2
+    },
+    {
+      "id": 5,
+      "name": "Sobhan name",
+      "username": "Sobhan",
+      "email": "sobhan@yahoo.com",
+      "phone": "989354812514",
+      "companiesId": "3",
+      "detailsId": 3
+    },
+    {
+      "name": "Luis Javier Trovar",
+      "username": "",
+      "email": "luisjavier_tovar@outlook.com",
+      "phone": "1234567899",
+      "companiesId": "3",
+      "id": 6,
+      "detailsId": 2
+    },
+    {
+      "name": "Pamela Notch",
+      "username": "",
+      "email": "pam.not@yahoo.com",
+      "phone": "1234567890",
+      "companiesId": "1",
+      "id": 7,
+      "detailsId": 3
+    },
+    {
+      "name": "paul Newman",
+      "username": "",
+      "email": "paul.newman@gmail.com",
+      "phone": "1234567890",
+      "companiesId": "2",
+      "id": 8,
+      "detailsId": 2
+    },
+    {
+      "name": "maira thomson",
+      "username": "",
+      "email": "maira.thomson@gmail.com",
+      "phone": "1234567890",
+      "companiesId": "2",
+      "id": 9,
+      "detailsId": 2
+    },
+    {
+      "name": "adriana bert",
+      "username": "",
+      "email": "adriana.bert@gmail.com",
+      "phone": "1234567890",
+      "companiesId": "1",
+      "id": 10,
+      "detailsId": 2
+    },
+    {
+      "name": "nico toro",
+      "username": "",
+      "email": "nictoretto@gmail.com",
+      "phone": "1234567890",
+      "companiesId": "1",
+      "id": 11,
+      "detailsId": 2
+    },
+    {
+      "name": "verin nike",
+      "username": "",
+      "email": "verin.nike@gmail.com",
+      "phone": "1234567890",
+      "companiesId": "1",
+      "id": 12,
+      "detailsId": 2
+    },
+    {
+      "name": "monica mam",
+      "username": "",
+      "email": "monica.mame@gmail.com",
+      "phone": "1234567890",
+      "companiesId": "1",
+      "id": 13,
+      "detailsId": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net"
+    },
+    {
+      "id": 2,
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency"
+    },
+    {
+      "id": 3,
+      "name": "Keebler LLC",
+      "catchPhrase": "User-centric fault-tolerant solution"
+    }
+  ],
+  "exams": [
+    {
+      "id": 1,
+      "name": "fractions-1",
+      "userId": 1,
+      "examday": "2018-02-28T23:00:00.000Z",
+      "done": true,
+      "score": 23.43
+    },
+    {
+      "userId": 1,
+      "name": "fractions",
+      "id": 2,
+      "examday": "03/01/2018",
+      "score": 23.43,
+      "done": true
+    },
+    {
+      "userId": 1,
+      "name": "word problems",
+      "id": 3,
+      "examday": "31/05/2001",
+      "score": 23.43,
+      "done": false
+    },
+    {
+      "userId": 1,
+      "name": "time for andrew exam",
+      "id": 4,
+      "examday": "19/10/2020",
+      "score": 23.43,
+      "done": true
+    },
+    {
+      "userId": 5,
+      "name": "redwall exam",
+      "id": 5,
+      "examday": "14/05/2017",
+      "score": 23.43,
+      "done": false
+    },
+    {
+      "userId": 6,
+      "name": "parts of speech",
+      "id": 6,
+      "examday": "12/05/2015",
+      "score": 23.43,
+      "done": false
+    },
+    {
+      "id": 7,
+      "name": "long story",
+      "userId": 7,
+      "examday": "2022-03-04T23:00:00.000Z",
+      "done": false,
+      "score": 23.43
+    },
+    {
+      "userId": 8,
+      "name": "the scientific method",
+      "id": 8,
+      "examday": "02/11/2021",
+      "score": 23.43,
+      "done": false
+    },
+    {
+      "userId": 9,
+      "name": "branches of federal government",
+      "id": 9,
+      "examday": "12/09/2021",
+      "score": 23.43,
+      "done": false
+    },
+    {
+      "userId": 10,
+      "name": "federal elections",
+      "id": 10,
+      "examday": "12/05/2022",
+      "score": 23.43,
+      "done": false
+    }
+  ]
+}
